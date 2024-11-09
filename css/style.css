@@ -1,0 +1,226 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.text-color{
+    color: #efefef;
+}
+.bg-color{
+    background-color: #1c1c1c; 
+}
+.card-bg{
+    background-color: #515151;
+}
+
+
+
+
+/* OVERVIEW  */
+.overview{
+    margin-top: 70px;
+}
+
+/* NAVIGATION  */
+.navbar-nav{
+    margin-left: 25%;
+    gap: 50px;
+}
+
+.nav-item a:hover{
+    background-color: #2ad386;
+    background-clip: text;
+    color: transparent;
+}
+
+
+/* LEADER  */
+.leader{
+    margin-top: 100px;
+}
+.leader-title h1{
+    margin-bottom: 35px;
+}
+.leader img{
+    margin-left: 105px;
+}
+.leader .col-6{
+    margin-left: 100px;
+}
+.leader-content{
+    border-radius: 20px;
+    padding-bottom: 6px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: start;
+}
+
+/* MISSION */
+.mission{
+    margin-top: 100px;
+}
+.mission-content h2{
+    margin-bottom: 20px;
+}
+.mission-content{
+    margin-left: 32%;
+    padding: 9%;
+    border-radius: 20px;
+    width: 450px;
+    height: 410px;
+}
+.mission-img{
+    margin-left: -45%;
+    margin-top: 30%;
+}
+.mission-content button{
+    background-color: #2ad386;
+    margin-top: 30px;
+    padding: 5px 30px 5px 30px;
+    border-radius: 7px;
+    border: 0px;
+    font-weight: 500;
+}
+
+/* WHAT  */
+.what{
+    margin-top: -55px;
+}
+.what-content h2{
+    margin-bottom: 20px;
+}
+.what-content{
+    margin-left: -5.5%;
+    padding: 8%;
+    border-radius: 20px;
+    width: 450px;
+    height: 410px;
+}
+.what-img{
+    margin-left: 19%;
+    margin-top: 50%;
+    width: 100%;
+}
+.what-content button{
+    background-color: #2ad386;
+    margin-top: 10px;
+    padding: 5px 30px 5px 30px;
+    border-radius: 7px;
+    border: 0px;
+    font-weight: 500;
+}
+
+
+/* GLOBAL  */
+.global{
+    margin-top: 100px;
+}
+.global h1{
+    margin-bottom: 30px;
+}
+.order-first{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.order{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.order-last{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.order-first h3{
+    font-size: 40px;
+    font-weight: 600;
+}
+.order-first p{
+    font-weight: 500;
+}
+.order h3{
+    font-size: 40px;
+    font-weight: 600;
+}
+.order p{
+    font-weight: 500;
+}
+.order-last h3{
+    font-size: 40px;
+    font-weight: 600;
+}
+.order-last p{
+    font-weight: 500;
+}
+
+
+/* ACHIEVEMENT */
+.achievement{
+    margin-top: 100px;
+}
+.achievement h1{
+    margin-bottom: 30px;
+}
+.card-group{
+    width: 80%;
+    margin-left: 9%;
+}
+.card-img-top{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 10%;
+}
+.card-body{
+    margin-bottom: 10%;
+}
+.card-title{
+    margin-top: 25px;
+}
+.card-text{
+    margin-top: 25px;
+    margin: 0 10px 0 10px;
+}
+.achievement .btn-see{
+    background-color: #2ad386;
+    margin-top: 30px;
+    padding: 5px 30px 5px 30px;
+    border-radius: 7px;
+    border: 0px;
+    font-weight: 500;
+}
+.achievement .btn-seemore{
+    background-color: #2ad386;
+    margin-top: 55px;
+    padding: 5px 30px 5px 30px;
+    border-radius: 7px;
+    border: 0px;
+    font-weight: 500;
+}
+
+
+/* COMPANY  */
+.company-img{
+    margin-top: 100px;
+}
+
+
+/* FOOTER  */
+.platform{
+    margin-top: 10px;
+    margin-left: -15%;
+}
+footer{
+    margin-top: 100px;
+}
+.help{
+    margin-left: -22.5%;
+}
+.copyright{
+    margin-right: -20.5%;
+}
+
+
